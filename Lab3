@@ -3,4 +3,45 @@
         <P>
             Elaina Hall. I'm a freshmen at NKU and a computer science major. I'm also a AR 45 Genshin Impact player.
         </P>
+        <p>
+            Some of my interests are: <br>
+            <ul>
+                <li>Basketball</li>
+                <li>Volleyball</li>
+                <li>Genshin Impact</li>
+                <li>Legends of Zelda</li>
+                <li>Super Mario</li>
+                <li>Fantasy</li>
+                <li>Sci-fi</li>
+            </ul>
+        </p>
+        <p>
+            Some of my favorite movies/tv shows are: <br>
+            <ol>
+                <li>Avatar: The Last Airbender</li>
+                <li>Sherlock</li>
+                <li>Attack on Titan</li>
+                <li>Moriarty the Patriot</li>
+                <li>Harry Potter</li>
+                <li>Star Wars</li>
+            </ol>
+        </p>
+        <p>
+            <table>
+                <tr>
+                    <td>Monday</td>
+                    <td>Tuesday</td>
+                    <td>Wednesday</td>
+                    <td>Thursday</td>
+                    <td>Friday</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td>Tuesday</td>
+                    <td>Wednesday</td>
+                    <td>Thursday</td>
+                    <td>Friday</td>
+                </tr>
+            </table>
+        </p>
     </HTML>
