@@ -1,10 +1,10 @@
 function eventHandler() {
    var x = document.getElementById("num1");
    var y = document.getElementById("num2");
-   var numx = parseInt(x);
-   var numy = parseInt(y)
+   var numx = parseInt(x.value);
+   var numy = parseInt(y.value)
    var max = Math.max(numx, numy);
-   setTimeout(() => { alert(numx) }, 3000);
+   setTimeout(() => { alert(max) }, 3000);
    setTimeout(() => { console.log(max) }, 3000);
 }
 
